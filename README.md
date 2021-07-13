@@ -6,3 +6,5 @@ Cada exercício contém testes unitários que devem ser satisfeitos. Os testes s
 A resolução do exercício deve ser feita no arquivo .cs que têm o mesmo nome do projeto. Ex: para o projeto com nome **ExercicioCalculadora** a solução é feita no arquivo **ExercicioCalculadora.cs**.
 
 Cada diretório desse repositório tem um exercício, e em cada diretório existe um README com a descrição do exercício.
+
+> É possível ver os exercícios que já completei no meu [perfil](https://exercism.io/profiles/SylvesterH13) do site.
